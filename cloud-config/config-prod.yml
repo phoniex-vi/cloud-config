@@ -1,0 +1,8 @@
+version: 1
+author: yewei
+profile: prod
+jdbc:
+  driver-class: com.mysql.jdbc.Driver
+  url: jdbc://localhost:3306/db
+  user: root
+  password: root
